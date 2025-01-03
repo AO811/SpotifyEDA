@@ -1,5 +1,25 @@
 # SpotifyEDA
-Data Analytics of Spotify Application
-Spotify is a digital music service that gives you access to millions of songs.
-The project aims to analyze Spotify data to gain insights into user preferences, trends in music consumption, and possible identify patterns that can inform recommendations or marketing strategies.
-The project aims to explore Spotify's dataset to understand user behaviour, popular genres, artists and songs, as well as to identify any correlations between user demographics and music preferences.
+A data-driven project designed to uncover insights into music consumption and user behavior using Spotify's dataset.
+
+### Objective:
+Analyze Spotify data to:
+
+1. Understand user preferences and behavior
+
+2. Identify trends in popular genres, artists, and songs
+
+3. Explore correlations between user demographics and music preferences
+
+4. Inform personalized recommendations and marketing strategies
+
+### Key Focus Areas:
+
+Data Exploration: Comprehensive analysis of Spotify's dataset to extract actionable insights
+
+Trend Analysis: Study music consumption patterns over time
+
+User Segmentation: Correlate demographics with music preferences for tailored strategies
+
+Visualization: Create intuitive visualizations to present findings effectively
+
+This project highlights the potential of data analytics in the music industry, offering insights for improved user experiences and strategic decision-making.
